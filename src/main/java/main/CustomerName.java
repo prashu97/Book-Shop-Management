@@ -1,5 +1,4 @@
 package main;
-
 import java.util.Scanner;
 
 public class CustomerName{
@@ -11,7 +10,7 @@ public class CustomerName{
 	}
 
 	public void setName(String name) {
-		//write your code here
+	this.name=name;
 	}
 	
 }
